@@ -1,0 +1,126 @@
+{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	list-style: none;
+}
+a {
+}
+ul {
+	position: center;
+	margin-top: 40px;
+}
+ul li{
+	display: inline-block;
+	background: #C4C4C4;
+	width: 90px;
+	height: 30px;
+	text-align: center;
+	border-radius: 5px;
+	margin-left: 30px;
+}
+ul li a{
+	text-decoration: none;
+	color: #000;
+	font-size: 28px;
+
+}
+.logo {
+	font-family: algerian;
+	text-align: center;
+	font-size: 48px;
+}
+.banner img {
+	margin-top: 40px;
+	width: 100%;
+}
+.img{
+	position: absolute;
+	
+}
+/*p#Home{
+	position: absolute;
+	background-color: red;
+width: 50px;
+height: 14px;
+left: 17px;
+top: 54px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+}
+p#Foto{
+	position: absolute;
+	background-color: gray;
+width: 37px;
+height: 14px;
+left: 90px;
+top: 54px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+}
+p#video{
+	position: absolute;
+	background-color: gray;
+width: 37px;
+height: 14px;
+left: 155px;
+top: 54px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+
+}
+p#produs{
+	position: absolute;
+	background-color: gray;
+width: 37px;
+height: 14px;
+left: 235px;
+top: 54px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+}
+p#info{
+	position: absolute;
+	background-color: gray;
+width: 37px;
+height: 14px;
+left: 320px;
+top: 54px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+}
+p#despre{
+	position: absolute;
+	background-color: gray;
+width: 37px;
+height: 14px;
+left: 385px;
+top: 54px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+}
+*/
